@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rizqijunes" target="blank"><img src="https://img.shields.io/twitter/follow/rizqijunes?logo=twitter&style=for-the-badge" alt="rizqijunes" /></a> </p>
 
-- 🔭 I’m currently working on **Prizayu Biz Theme** (Private repo 😁)
+- 🔭 I’m currently working on [**Prizayu Biz Theme**] (https://github.com/rizqijune/prizayu-biz)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
